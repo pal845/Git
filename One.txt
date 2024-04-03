@@ -1,6 +1,7 @@
 class Naruto{
 public static void main(String args[]){
 System.ot.print("Uzumaki");
+System.ot.print("hello");
 }
 }
 
